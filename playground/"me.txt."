@@ -1,3 +1,6 @@
+cd playground
+echo "{{#user}
 Name: Harsh Vaish
 Skills: HTML, CSS, JS, Python, C++, C, ML, DS, SQL
 Email: harshvaish7710@gmail.com
+{{/user}}" > me.txt
